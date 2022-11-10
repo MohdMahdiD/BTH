@@ -38,7 +38,7 @@ Local Disc C: -> xampp -> htdocs -> 'this project'
 5. Make Changes to settings
 
 Go to 'config.php' file. Then make changes on following constants
-```php
+```
 <?php
     //Create Constants to Store Non Repeating Values
     //define('SITEURL', 'http://localhost:8080/Bitlance/');
