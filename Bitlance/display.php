@@ -41,7 +41,7 @@
                     }
                 }
             ?>
-            </tr>
+            
         </table>
         <br>
         <a class="btn" href="index.php">Insert Data</a>  
